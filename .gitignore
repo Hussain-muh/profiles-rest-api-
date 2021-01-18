@@ -136,3 +136,9 @@ dmypy.json
 # End of https://www.gitignore.io/api/python,vagrant
 eb-package.zip
 static/
+/.idea/modules.xml
+/.idea/profile-rest-api.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/profiles_api/tests.py
+/.idea/vcs.xml
